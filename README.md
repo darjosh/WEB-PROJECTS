@@ -3,7 +3,7 @@
 # HTML/CSS and JavaScript Projects
 |#  | Project | Live demo|
 |:- |---------------------|:----------------------------------------------------------------------|
-|1  | 2MinuteCSSAnimation |https://github.com/darjosh/WEB-PROJECTS/2MinuteCSSAnimation/index.html |
+|1  | 2MinuteCSSAnimation |https://github.com/darjosh/WEB-PROJECTS/blob/master/2MinuteCSSAnimation/index.html |
 |2  | 3DBook |https://github.com/darjosh/WEB-PROJECTS/3DBook/index.html |
 |3  | 3DCarousel |https://github.com/darjosh/WEB-PROJECTS/3DCarousel/index.html |
 |4  | 3DCheckBox |https://github.com/darjosh/WEB-PROJECTS/3DCheckBox/index.html |
