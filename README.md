@@ -17,7 +17,7 @@
 |12  | ZoomOutImageOnScroll  |https://darjosh.github.io/WEB-PROJECTS/ZoomOutImageOnScroll/index.html |
 |13  | ZigZagBorderTrick  |https://darjosh.github.io/WEB-PROJECTS/ZigZagBorderTrick/index.html  |
 |14  | WrapTextAroundImages  |https://darjosh.github.io/WEB-PROJECTS/WrapTextAroundImages/index.html  |
-|15  | WhatsAppClone  |https://darjosh.github.io/WEB-PROJECTS/WhatsAppClone/index.html |
+
 
 
 
